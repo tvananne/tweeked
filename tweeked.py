@@ -28,8 +28,10 @@ MY_SCREEN_NAME = "alleycatpython"	#put your screen name (twitter handle without 
 8) unfollow - unfollows the user 
 """
 
+""" ******************************* FUNCTION DEFINITIONS ******************************"""
 
-""" These are all just functions"""
+
+""" oauth """
 def get_oauth():
 	print "****************************  get_oauth ********************************"
 	oauth = OAuth1(CONSUMER_KEY,
@@ -217,6 +219,5 @@ def unfollow(userid):
 			
 
 print get_limits()			
-#get_limits()
 
-#get_tweets("ESPN_Big12", "5")
+print get_tweets("ESPN_Big12", "5")
