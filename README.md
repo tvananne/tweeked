@@ -4,7 +4,7 @@
 I would like to help others understand how the Twitter API works
 
 ##Set up your own twitter 'app'
-Please note, you will need to log into twitter with your account and go to apps.twitter.com and register your own application. You can
+Please note, you will need to log into twitter with your account and go to https://apps.twitter.com and register your own application. You can
 make the website http://www.google.com if you don't have a website. Leave the callback url blank.
 
 After your app is created, go to "Keys and Access Tokens" tab and take a note of the consumer key and
