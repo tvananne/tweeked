@@ -1,6 +1,6 @@
 # Tweeked
 
-## Goal: to demystify the Twitter API
+## Goal: to demystify the Twitter API using Python (2.7)
 I would like to help others understand how the Twitter API works
 
 ##Set up your own twitter 'app'
