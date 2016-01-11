@@ -6,10 +6,10 @@ import json
 import time
 
 """ Oauth Constants - get these from apps.twitter.com (will need to create app if haven't already)"""
-CONSUMER_KEY = "ApSJcidYxIegrZo7FiSC8XrB4"								#Consumer Key here
-CONSUMER_SECRET = "I8TYKGCA34M2ac8Hyg1CYs47U0Ectg2yPAKzJZJSKwGw3ClDiT"  #Consumer Secret Here
-OAUTH_TOKEN = "4583054541-wIOztctSzu7eUXMAvbyK35yFHtOYugArl0ym4cK"		#Access Token Here
-OAUTH_TOKEN_SECRET = "Xq6OVoy6rJYEU64oLuHuiy77EpB4h1L8yvNvE8iC7lyVw"	#Access Token Secret Here
+CONSUMER_KEY = ""		#Consumer Key here
+CONSUMER_SECRET = ""  	#Consumer Secret Here
+OAUTH_TOKEN = ""		#Access Token Here
+OAUTH_TOKEN_SECRET = ""	#Access Token Secret Here
 
 #this is used in some functions such as 'get my followers' and 'get my friends'
 MY_SCREEN_NAME = "alleycatpython"	#put your screen name (twitter handle without the @)
